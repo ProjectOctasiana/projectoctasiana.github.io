@@ -1,2 +1,2 @@
-# projectoctasiana.github.io
+Project Octasiana
 All free Web builds of Project Octasiana, A game made by @06NinjaKid06.
